@@ -10,7 +10,7 @@ Group Members
 4. Ayad Momin
 
 Problem Description: 
-As the owner/operator of Elite United FC, your football club competes in professional leagues at both national and international levels. The club not only emphasizes on-field performance but also places importance on fan engagement. A passionate fan base attends matches, purchases merchandise, and interacts through various channels. Elite United FC is a multifaceted organization with departments such as player management, coaching staff, medical and fitness, finance, marketing, ticketing, facilities management, scouting, youth development, and fan engagement.
+As the owner/operator of Elite United FC, your soccer club competes in professional leagues at both national and international levels. The club not only emphasizes on-field performance but also places importance on fan engagement. A passionate fan base attends matches, purchases merchandise, and interacts through various channels. Elite United FC is a multifaceted organization with departments such as player management, coaching staff, medical and fitness, finance, marketing, ticketing, facilities management, scouting, youth development, and fan engagement.
 
 Key aspects of our business that the MIST 4610 class students should consider when designing the relational database include:
 1. **Scouting**: Tracks scouting activities and records, including information about scouts, the players they evaluate, and the resulting reports.
