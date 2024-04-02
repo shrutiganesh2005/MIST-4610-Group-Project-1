@@ -35,5 +35,16 @@ Within these entities, there are also relationships simultaneously between each 
 
 Outside the player table, there are also the  marketing and finance entities. Marketing has a one to many relationship with both fan engagement and merchandise (many fans are attribted to one marketing campaign and many marketing campaigns are attributed to one merchandise category. To account for this, the merchandise ID is placed in the marketing attributes as a foreign key. Finance also has a one to many relationship with merchandise (there can be many items of merchandise under one financial transaction). Finance additionally has relationships with facility and ticketing, both being one to many as well. One facility can have several financial transactions while one financial transaction can have several tickets. 
 
-Data Model: 
+**Data Model: **
+
 <img width="884" alt="Screenshot 2024-04-02 at 5 38 41 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/db50490d-3501-4647-b81d-1852103e7048">
+
+**Data Dictionary: **
+
+<img width="814" alt="Screenshot 2024-04-02 at 5 42 42 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/63d4749f-30e1-40ad-85f2-e7fe6d29d228">
+<img width="822" alt="Screenshot 2024-04-02 at 5 43 17 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/96f91e35-bf4e-46ae-8155-3dc6178f1917">
+<img width="841" alt="Screenshot 2024-04-02 at 5 43 31 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/bac1e4fe-a0d6-4d5f-88ae-bd9a3e7b07f1">
+
+
+
+
