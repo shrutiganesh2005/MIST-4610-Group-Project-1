@@ -29,7 +29,7 @@ Key aspects of our business that the MIST 4610 class students should consider wh
 
 **Explanation of the Data Model:**
 
-Our data model represents a hypothetical soccer club. Our soccer club is comprised of several components from the various players and coaching staff to the more financial side of the club including ticketing and merchandise. 
+Our data model represents a hypothetical soccer club. Our soccer club is comprised of several components from the various players and coaching staff to the finances of ticketing and merchandise. 
 
 First, we have the players entity which has relationships with several other entities. There is a one-to-many relationship  between players and coaching staff (many players for one coaching staff), players and scouting(many scouts for one player), players and trainers (many players for one trainer), players and injury reports (many injury reports for one player), and players and youth development. There is also a one-to-one relationship between players and youth development.  
 
