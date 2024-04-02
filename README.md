@@ -46,6 +46,12 @@ Outside the player table, there are also the  marketing and finance entities. Ma
 <img width="841" alt="Screenshot 2024-04-02 at 5 43 31 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/bac1e4fe-a0d6-4d5f-88ae-bd9a3e7b07f1">
 <img width="800" alt="Screenshot 2024-04-02 at 5 44 41 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/7b420a07-979b-4458-8cb2-ddcfe582a65b">
 <img width="812" alt="Screenshot 2024-04-02 at 5 44 57 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/ad4f2dd5-a29c-4335-b567-883749ae0baa">
+<img width="842" alt="Screenshot 2024-04-02 at 5 45 54 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/68e891e5-d64b-4f5a-bae7-31c0ea84fd30">
+<img width="820" alt="Screenshot 2024-04-02 at 5 46 06 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/3c217f87-1912-4445-90b8-42a1c6b83455">
+<img width="603" alt="Screenshot 2024-04-02 at 5 46 49 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/072cc3a1-91ce-4db4-a993-09f0f26ad430">
+<img width="837" alt="Screenshot 2024-04-02 at 5 46 30 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/aed55510-85dd-44bc-92b4-a9e441c36c31">
+
+
 
 
 
