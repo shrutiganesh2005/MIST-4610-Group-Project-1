@@ -29,9 +29,7 @@ Key aspects of our business that the MIST 4610 class students should consider wh
 
 **Explanation of the Data Model:**
 
-Our data model represents a hypothetical soccer club. Our soccer club is comprised of several components from the various players and coaching staff to the finances of ticketing and merchandise. 
-
-First, we have the players entity which has relationships with several other entities. There is a one-to-many relationship  between players and coaching staff (many players under one coaching staff), players and scouting (many scouts for one player), players and trainers (many players for one trainer), and players and injury reports (many injury reports for one player). To account for this, the coaching staff ID and player ID are placed in the scouting attributes as foreign keys. There is also a one-to-one relationship between players and youth development: each player is associated with one youth player.  
+Our data model represents a hypothetical soccer club. Our soccer club is comprised of several components from the various players and coaching staff to the finances of ticketing and merchandise. First, we have the players entity which has relationships with several other entities. There is a one-to-many relationship  between players and coaching staff (many players under one coaching staff), players and scouting (many scouts for one player), players and trainers (many players for one trainer), and players and injury reports (many injury reports for one player). To account for this, the coaching staff ID and player ID are placed in the scouting attributes as foreign keys. There is also a one-to-one relationship between players and youth development: each player is associated with one youth player.  
 
 Within these entities, there are also relationships simultaneously between each other. Coaching staff and scouting have a one to one relationship, trainer and injury have a one to many relationship (one trainer takes care of many injuries), injury reports have a one-to-many relationships with both players and injury (one player can have many injury reports and one injury has many injury reports).
 
