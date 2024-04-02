@@ -51,6 +51,7 @@ Outside the player table, there are also the  marketing and finance entities. Ma
 <img width="603" alt="Screenshot 2024-04-02 at 5 46 49 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/072cc3a1-91ce-4db4-a993-09f0f26ad430">
 <img width="837" alt="Screenshot 2024-04-02 at 5 46 30 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/aed55510-85dd-44bc-92b4-a9e441c36c31">
 <img width="676" alt="Screenshot 2024-04-02 at 5 47 18 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/21687d51-2ef1-41cb-b694-ca4f31809979">
+<img width="584" alt="Screenshot 2024-04-02 at 5 48 41 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/cc2fabb0-a620-4ab7-af12-ce0e11ad98bb">
 
 
 
