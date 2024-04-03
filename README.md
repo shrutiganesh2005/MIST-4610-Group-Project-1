@@ -59,13 +59,19 @@ Queries:
 
 1. List the facilities with a capacity over 23,000 and maintenance schedule before 10 AM.
 <img width="754" alt="Screenshot 2024-04-03 at 10 51 29 AM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/e606de2c-9878-4eb6-b832-dc37630fb381">
+
 This query recognizes which facilities have a capacity over a specific value and maintenance schedule before a specific time. This is important for the club to know in order to schedule specific games/events based on how many people the location can hold and whether or not the maintenance will interfere with the event. 
 
 
 2. What is the average Age of Players at Each Development Stage?
 <img width="1038" alt="Screenshot 2024-04-03 at 10 52 05 AM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/8f6dded0-6a46-4fc7-84b1-d932766ce3c7">
 
+This query focuses on youth development and the average age based on development progress (competitive, fundamentals, development, advanced training, professional prep). This is important for the club to know in order to gauge maturity and ability for each group of players. This is also important for documentation purposes and keeping track of age and demographics for each group of youths. 
+
+
 3. List the average number of players training with each trainer, grouped by the scheduled training times
 <img width="1069" alt="Screenshot 2024-04-03 at 10 52 41 AM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/c9bc05a5-113d-409b-acd1-fd5d66d648e7">
+
+The query shows the average number of players training with each player and organizes them on what time their trainer is scheduled for. This is important for the club to recognize in order to schedule new incoming players to a specific trainer based on who has a fewer number of average players training or to schedule players who can only be trained at a specific time. 
 
 
