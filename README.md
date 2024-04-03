@@ -77,6 +77,6 @@ Query 4 Write a query to list the percentage of players that were out 2 or more 
 
 This query lists how many players were out for 2 or more months with injury. This allows the club to keep track of how many players out of the total number are not able to play. This information is vital to be aware of because there is a possibility of other entities including finance and youth development to be impacted from the lack of players.
 
-Query 5 Write a query that shows which coaches are associated with American players <img width="563" alt="Screenshot 2024-04-03 at 2 31 40 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/dbbdb596-499e-4641-9076-41062909d755">
 
+Query 5 Write a query that shows which coaches are associated with American players <img width="1128" alt="Screenshot 2024-04-03 at 2 35 35 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/55c84a18-687d-4f7f-956e-abb57ab9d390">
 This query lists out the names of coaches who are associated with American players. It is important for the club to organize various coaches based on player Nationality. Doing so will rid of any culture/language barriers between the player and coach, easily adapt to playing style, as well as allow coaches to better identify and find players while recruiting. 
