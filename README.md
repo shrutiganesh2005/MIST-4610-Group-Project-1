@@ -80,3 +80,7 @@ This query lists how many players were out for 2 or more months with injury. Thi
 
 Query 5 Write a query that shows which coaches are associated with American players <img width="1128" alt="Screenshot 2024-04-03 at 2 35 35 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/55c84a18-687d-4f7f-956e-abb57ab9d390">
 This query lists out the names of coaches who are associated with American players. It is important for the club to organize various coaches based on player Nationality. Doing so will rid of any culture/language barriers between the player and coach, easily adapt to playing style, as well as allow coaches to better identify and find players while recruiting. 
+
+
+Query 6 List out the financial amounts for Q1 (the first three months of the year) by the  financial type and match date
+![Screenshot 2024-04-03 191435](https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/163186348/0f502f19-84bd-442c-b45a-0f2e49294ad2)
