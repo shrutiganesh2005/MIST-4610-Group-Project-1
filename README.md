@@ -55,9 +55,15 @@ Outside the player table, there are also the  marketing and finance entities. Ma
 <img width="676" alt="Screenshot 2024-04-02 at 5 47 18 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/21687d51-2ef1-41cb-b694-ca4f31809979">
 <img width="584" alt="Screenshot 2024-04-02 at 5 48 41 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/cc2fabb0-a620-4ab7-af12-ce0e11ad98bb">
 
+Queries: 
 
+1. List the facilities with a capacity over 23,000 and maintenance schedule before 10 AM.
+<img width="754" alt="Screenshot 2024-04-03 at 10 51 29 AM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/e606de2c-9878-4eb6-b832-dc37630fb381">
 
+2. What is the average Age of Players at Each Development Stage?
+<img width="1038" alt="Screenshot 2024-04-03 at 10 52 05 AM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/8f6dded0-6a46-4fc7-84b1-d932766ce3c7">
 
-
+3. List the average number of players training with each trainer, grouped by the scheduled training times
+<img width="1069" alt="Screenshot 2024-04-03 at 10 52 41 AM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/c9bc05a5-113d-409b-acd1-fd5d66d648e7">
 
 
