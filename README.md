@@ -56,6 +56,7 @@ Outside the player table, there are also the  marketing and finance entities. Ma
 <img width="584" alt="Screenshot 2024-04-02 at 5 48 41 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/cc2fabb0-a620-4ab7-af12-ce0e11ad98bb">
 
 **Queries:** 
+
 Query 1  list the facilities with a capacity over 23,000 and maintenance schedule before 10 AM.<img width="754" alt="Screenshot 2024-04-03 at 10 51 29 AM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/e606de2c-9878-4eb6-b832-dc37630fb381">
 
 This query recognizes which facilities have a capacity over a specific value and maintenance schedule before a specific time. This is important for the club to know in order to schedule specific games/events based on how many people the location can hold and whether or not the maintenance will interfere with the event. 
