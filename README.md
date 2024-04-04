@@ -107,4 +107,4 @@ Query 10 Calculate the sales revenue and its percentage share of the club's tota
 <img width="956" alt="Screenshot 2024-04-04 at 3 39 31 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/131741591/6cdcfa4e-2e0a-4afe-880c-b35291668cc8">
 
 
-This query is designed to calculate the total sales of merchandise items by summing the amounts from the Finance table and grouping the results by inventory items from the Merchandise table. Also, it sums up sales from certain inventory categories, particularly targeting items from Nike and Puma. The results help the marketing team to strategize promotions and the finance team to prioritize high profit inventory. If Nike and Puma items show strong sales, efforts will shift to enhance stock and advertise these brands more aggressively.
+This query calculates the total sales revenue for merchandise items, grouping them by inventory categories such as Nike and Puma. It helps the marketing team plan promotions and the finance team prioritize profitable inventory. If sales for Nike and Puma items are strong, resources may be directed towards stocking and advertising these brands more effectively.
