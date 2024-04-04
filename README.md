@@ -71,7 +71,8 @@ Query 3 list the average number of players training with each trainer, grouped b
 
 The query shows the average number of players training with each player and organizes them on what time their trainer is scheduled for. This is important for the club to recognize in order to schedule new incoming players to a specific trainer based on who has a fewer number of average players training or to schedule players who can only be trained at a specific time. 
 
-Query 4 Write a query to list the percentage of players that were out 2 or more months with injury <img width="1005" alt="Screenshot 2024-04-03 at 2 13 52 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/25958605-c4d1-4d96-bb6b-6a3ab75b3f32">
+Query 4 Write a query to list the percentage of players that were out 2 or more months with injury
+<img width="1075" alt="Screenshot 2024-04-04 at 3 31 34 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/2115b239-95db-470b-b05f-34c5be065a8b">
 
 This query lists how many players were out for 2 or more months with injury. This allows the club to keep track of how many players out of the total number are not able to play. This information is vital to be aware of because there is a possibility of other entities including finance and youth development to be impacted from the lack of players.
 
