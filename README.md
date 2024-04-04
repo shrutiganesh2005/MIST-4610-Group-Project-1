@@ -95,9 +95,9 @@ Query 8 List the number of fans that each marketing campaign brought in, grouped
 This query lists how many fans each marketing campaign helped to bring in and organized them based on membership status with fans greater than a specific number. This is extremely important for the club, specifically the marketing team, to recognize which campaigns were the most successful in bringing in a larger fanbase. This information can be utilized for future campaigns in which will be the most successful for the club. 
 
 Query 9 Write a query that lists out the names of coaches and scouts in ascending (A-Z) order based only on who are not associated with any players.
-<img width="931" alt="Screenshot 2024-04-04 at 1 30 34 AM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/fa1e8768-56fc-4adc-b50b-ef431278ca13">
+<img width="800" alt="Screenshot 2024-04-04 at 3 16 47 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/36fe242a-4bfd-448b-a896-c209aeabf951">
 
-This query lists out names of the coaches and scouts in a specific order based on who work with no players. This is important for the club in various ways, specifically for planning purposes. If there are any incoming players, they can be assigned to a specific coach not currently assigned to any players. This also lets the team know which scouts have yet to do their job of finding and recruiting new talent.
+This query lists out names of the coaches and scouting coaches in a specific order based on who work with no players. This is important for the club in various ways, specifically for planning purposes. If there are any incoming players, they can be assigned to a specific coach not currently assigned to any players. This also lets the team know which scouting coaches have yet to do their job of finding and recruiting new talent.
 
 Query 10 Calculate the total revenue for each category of inventory for merchandise items where the merch vendor is "Nike" or "Puma"
 <img width="1021" alt="Screenshot 2024-04-04 at 3 07 17 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/131741591/fced89d3-b0c2-4f3a-aa11-20a865735139">
