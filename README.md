@@ -89,3 +89,6 @@ Query 7 List the players Nationality in descending (Z-A) order who get trained b
 ![Screenshot (37)](https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/165838944/5b5aecd4-fc17-4258-a2f0-be3fbc860c14)
 
 
+Query 8 List the number of fans that each marketing campaign brought in, grouped by their membership status, and only include membership statuses where the number of fans is greater than 5.
+![Screenshot 2024-04-04 002846](https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/163186348/fd61e5d1-813d-45e9-ae3c-d59817af0a28)
+
