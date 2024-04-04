@@ -82,7 +82,7 @@ This query lists out the names of coaches who are associated with American playe
 Query 6 List out the financial amounts for Q1 (the first three months of the year) by the  financial type and match date
 ![Screenshot 2024-04-03 191435](https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/163186348/0f502f19-84bd-442c-b45a-0f2e49294ad2)
 
-This query is important specifically for the finance members of the soccer club keeping track of finances and fees based on match date. 
+This query is important specifically for the finance portion of the soccer club keeping track of finances and fees based on match date. In order to successfully keep track of financial reports, this query allows the club to organize finances based on amount, date, description, and facility. 
 
 Query 7 List the players Nationality in descending (Z-A) order who get trained by Alden Arkow.
 ![Screenshot (37)](https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/165838944/5b5aecd4-fc17-4258-a2f0-be3fbc860c14)
