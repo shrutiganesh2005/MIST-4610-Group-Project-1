@@ -92,8 +92,14 @@ This query lists players nationality in a specific order for organization purpos
 Query 8 List the number of fans that each marketing campaign brought in, grouped by their membership status, and only include membership statuses where the number of fans is greater than 5.
 ![Screenshot 2024-04-04 002846](https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/163186348/fd61e5d1-813d-45e9-ae3c-d59817af0a28)
 
+This query lists how many fans each marketing campaign helped to bring in and organized them based on membership status with fans greater than a specific number. This is extremely important for the club, specifically the marketing team, to recognize which campaigns were the most successful in bringing in a larger fanbase. This information can be utilized for future campaigns in which will be the most successful for the club. 
+
 Query 9 Write a query that lists out the names of coaches and trainers in ascending (A-Z) order based only on who are not associated with any players.
 <img width="931" alt="Screenshot 2024-04-04 at 1 30 34 AM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/fa1e8768-56fc-4adc-b50b-ef431278ca13">
 
+This query lists out names of the coaches and trainers in a specific order based on who work with no players. This is important for the club in various ways, specifically for planning purposes. If there are any incoming players, they can be assigned to a specific coach or trainer not currently assigned to any players. This will make the process of assigning a coach and trainer to a player faster and more efficient.
+
 Query 10 Calculate the total revenue for each category of inventory for merchandise items where the inventory category name is "limited edition" or "signed".
 <img width="939" alt="Screenshot 2024-04-04 at 1 52 13 AM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/eb072a58-c5d9-458e-9454-52174dcd2f09">
+
+This query calculates revenue based on categories of inventory for merchandise item, specifically focusing on limited edition and signed merchandise. This is important for both the marketing and finance teams of the club. If limited ediition and signed merchandise tend to do better and make a larger profit, the finance team will focus on maximizing that type of the merchandise and the marketing team will focus on marketing those types of products to increase the sales. 
