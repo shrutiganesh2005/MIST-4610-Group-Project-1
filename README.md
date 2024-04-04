@@ -92,3 +92,5 @@ Query 7 List the players Nationality in descending (Z-A) order who get trained b
 Query 8 List the number of fans that each marketing campaign brought in, grouped by their membership status, and only include membership statuses where the number of fans is greater than 5.
 ![Screenshot 2024-04-04 002846](https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/163186348/fd61e5d1-813d-45e9-ae3c-d59817af0a28)
 
+Query 8 Write a query that lists out the names of coaches and trainers in ascending (A-Z) order who are not associated with any players
+<img width="843" alt="Screenshot 2024-04-04 at 1 27 11 AM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/a3fbbcfb-b908-49a8-9f34-af65fc7d03ef">
