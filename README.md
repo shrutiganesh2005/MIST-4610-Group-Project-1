@@ -93,5 +93,4 @@ Query 8 List the number of fans that each marketing campaign brought in, grouped
 ![Screenshot 2024-04-04 002846](https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/163186348/fd61e5d1-813d-45e9-ae3c-d59817af0a28)
 
 Query 9 Write a query that lists out the names of coaches and trainers in ascending (A-Z) order based only on who are not associated with any players.
-<img width="540" alt="Screenshot 2024-04-04 at 1 27 44 AM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/27666217-2032-4482-8581-9e290908676d">
-
+<img width="1095" alt="Screenshot 2024-04-04 at 1 28 29 AM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/769bf5c9-6360-426b-8eb4-3f592522fa84">
