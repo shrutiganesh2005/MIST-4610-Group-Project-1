@@ -97,7 +97,7 @@ This query lists how many fans each marketing campaign helped to bring in and or
 Query 9 Write a query that lists out the names of coaches and scouts in ascending (A-Z) order based only on who are not associated with any players.
 <img width="931" alt="Screenshot 2024-04-04 at 1 30 34 AM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/fa1e8768-56fc-4adc-b50b-ef431278ca13">
 
-This query lists out names of the coaches and scouts in a specific order based on who work with no players. This is important for the club in various ways, specifically for planning purposes. If there are any incoming players, they can be assigned to a specific coach not currently assigned to any players. 
+This query lists out names of the coaches and scouts in a specific order based on who work with no players. This is important for the club in various ways, specifically for planning purposes. If there are any incoming players, they can be assigned to a specific coach not currently assigned to any players. This also lets the team know which scouts have yet to do their job of finding and recruiting new talent.
 
 Query 10 Calculate the total revenue for each category of inventory for merchandise items where the merch vendor is "Nike" or "Puma"
 <img width="1021" alt="Screenshot 2024-04-04 at 3 07 17 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/131741591/fced89d3-b0c2-4f3a-aa11-20a865735139">
