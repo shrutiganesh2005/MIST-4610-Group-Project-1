@@ -63,11 +63,9 @@ Query 1  list the facilities with a capacity over 23,000 and maintenance schedul
 
 This query recognizes which facilities have a capacity over a specific value and maintenance schedule before a specific time. This is important for the club to know in order to schedule specific games/events based on how many people the location can hold and whether or not the maintenance will interfere with the event. 
 
-
 Query 2 list the average age of players at each Development Stage. <img width="1038" alt="Screenshot 2024-04-03 at 10 52 05 AM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/8f6dded0-6a46-4fc7-84b1-d932766ce3c7">
 
 This query focuses on youth development and the average age based on development progress (competitive, fundamentals, development, advanced training, professional prep). This is important for the club to know in order to gauge maturity and ability for each group of players. This is also important for documentation purposes and keeping track of age and demographics for each group of youths. 
-
 
 Query 3 list the average number of players training with each trainer, grouped by the scheduled training times. <img width="1069" alt="Screenshot 2024-04-03 at 10 52 41 AM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/c9bc05a5-113d-409b-acd1-fd5d66d648e7">
 
@@ -77,13 +75,14 @@ Query 4 Write a query to list the percentage of players that were out 2 or more 
 
 This query lists how many players were out for 2 or more months with injury. This allows the club to keep track of how many players out of the total number are not able to play. This information is vital to be aware of because there is a possibility of other entities including finance and youth development to be impacted from the lack of players.
 
-
 Query 5 Write a query that shows which coaches are associated with American players <img width="1128" alt="Screenshot 2024-04-03 at 2 35 35 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/55c84a18-687d-4f7f-956e-abb57ab9d390">
-This query lists out the names of coaches who are associated with American players. It is important for the club to organize various coaches based on player Nationality. Doing so will rid of any culture/language barriers between the player and coach, easily adapt to playing style, as well as allow coaches to better identify and find players while recruiting. 
 
+This query lists out the names of coaches who are associated with American players. It is important for the club to organize various coaches based on player Nationality. Doing so will rid of any culture/language barriers between the player and coach, easily adapt to playing style, as well as allow coaches to better identify and find players while recruiting. 
 
 Query 6 List out the financial amounts for Q1 (the first three months of the year) by the  financial type and match date
 ![Screenshot 2024-04-03 191435](https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/163186348/0f502f19-84bd-442c-b45a-0f2e49294ad2)
+
+This query is important specifically for the finance members of the soccer club keeping track of finances and fees based on match date. 
 
 Query 7 List the players Nationality in descending (Z-A) order who get trained by Alden Arkow.
 ![Screenshot (37)](https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/165838944/5b5aecd4-fc17-4258-a2f0-be3fbc860c14)
