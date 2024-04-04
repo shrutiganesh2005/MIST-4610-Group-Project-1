@@ -57,7 +57,8 @@ Outside the player table, there are also the  marketing and finance entities. Ma
 
 **Queries:** 
 
-<img width="663" alt="Screenshot 2024-04-04 at 2 01 25 AM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/4eb96847-0aa9-4f61-9e56-4aec5c6ce530">
+<img width="643" alt="Screenshot 2024-04-04 at 3 41 08 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/7f28cb05-5247-477a-9c97-5325651b5fff">
+
 
 Query 1  list the facilities with a capacity over 23,000 and maintenance schedule before 10 AM.<img width="754" alt="Screenshot 2024-04-03 at 10 51 29 AM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/e606de2c-9878-4eb6-b832-dc37630fb381">
 
