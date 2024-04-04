@@ -85,7 +85,7 @@ Query 6 List out the financial amounts for Q1 (the first three months of the yea
 This query is important specifically for the finance portion of the soccer club keeping track of finances and fees based on match date. In order to successfully keep track of financial reports, this query allows the club to organize finances based on amount, date, description, and facility. Keeping track of finances is vital to ensure financial stability for the club as well as budgeting and planning for the future.
 
 Query 7 List the players Nationality in descending (Z-A) order who get trained by Alden Arkow.
-![Screenshot (37)](https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/165838944/5b5aecd4-fc17-4258-a2f0-be3fbc860c14)
+![Screenshot (38)](https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/165838944/9b7bd999-fd4e-4f8e-89e5-617e984c4fcb)
 
 This query lists players nationality in a specific order for organization purposes based on who gets trained by a specific trainer, Aldow Arkow. This organization is important for a soccer club to ensure adaptability and cultural understanding. Additionally, organizing the nationality of players based on a single trainer allows the club to make informed decisions regarding player recruitment. 
 
