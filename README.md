@@ -94,3 +94,6 @@ Query 8 List the number of fans that each marketing campaign brought in, grouped
 
 Query 9 Write a query that lists out the names of coaches and trainers in ascending (A-Z) order based only on who are not associated with any players.
 <img width="931" alt="Screenshot 2024-04-04 at 1 30 34 AM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/fa1e8768-56fc-4adc-b50b-ef431278ca13">
+
+Query 10 Calculate the total revenue for each category of inventory for merchandise items where the inventory category name is "limited edition" or "signed".
+<img width="939" alt="Screenshot 2024-04-04 at 1 52 13 AM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/eb072a58-c5d9-458e-9454-52174dcd2f09">
