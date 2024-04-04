@@ -102,7 +102,7 @@ Query 9 Write a query that lists out the names of coaches and scouts in ascendin
 
 This query lists out names of the coaches and scouting coaches in a specific order based on who work with no players. This is important for the club in various ways, specifically for planning purposes. If there are any incoming players, they can be assigned to a specific coach not currently assigned to any players. This also lets the team know which scouting coaches have yet to do their job of finding and recruiting new talent.
 
-Query 10 Calculate the total revenue for each category of inventory for merchandise items where the merch vendor is "Nike" or "Puma"
+Query 10 Calculate the percent of total sales revenue for merchandise that makes up the club's finances for items where the merch vendor is "Nike" or "Puma"
 <img width="1021" alt="Screenshot 2024-04-04 at 3 07 17 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/131741591/fced89d3-b0c2-4f3a-aa11-20a865735139">
 
 This query is designed to calculate the total sales of merchandise items by summing the amounts from the Finance table and grouping the results by inventory items from the Merchandise table. Also, it sums up sales from certain inventory categories, particularly targeting items from Nike and Puma. The results help the marketing team to strategize promotions and the finance team to prioritize high profit inventory. If Nike and Puma items show strong sales, efforts will shift to enhance stock and advertise these brands more aggressively.
