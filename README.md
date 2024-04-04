@@ -99,7 +99,8 @@ Query 9 Write a query that lists out the names of coaches and scouts in ascendin
 
 This query lists out names of the coaches and scouts in a specific order based on who work with no players. This is important for the club in various ways, specifically for planning purposes. If there are any incoming players, they can be assigned to a specific coach not currently assigned to any players. 
 
-Query 10 Calculate the total revenue for each category of inventory for merchandise items where the inventory category name is "limited edition" or "signed".
-<img width="939" alt="Screenshot 2024-04-04 at 1 52 13 AM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/114629015/eb072a58-c5d9-458e-9454-52174dcd2f09">
+Query 10 Calculate the total revenue for each category of inventory for merchandise items where the merch vendor is "Nike" or "Puma"
+<img width="1021" alt="Screenshot 2024-04-04 at 3 07 17 PM" src="https://github.com/shrutiganesh2005/MIST-4610-Group-Project-1/assets/131741591/fced89d3-b0c2-4f3a-aa11-20a865735139">
+
 
 This query calculates revenue based on categories of inventory for merchandise item, specifically focusing on limited edition and signed merchandise. This is important for both the marketing and finance teams of the club. If limited ediition and signed merchandise tend to do better and make a larger profit, the finance team will focus on maximizing that type of the merchandise and the marketing team will focus on marketing those types of products to increase the sales. 
